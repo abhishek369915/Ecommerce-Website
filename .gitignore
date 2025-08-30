@@ -1,0 +1,38 @@
+# ===== OS-specific =====
+.DS_Store
+Thumbs.db
+
+# ===== Eclipse IDE =====
+.project
+.classpath
+.settings/
+Servers/
+
+# ===== Build output =====
+/build/
+/bin/
+/target/
+/out/
+
+# ===== Java / JSP =====
+*.class
+*.war
+*.ear
+*.jar
+*.log
+
+# ===== Tomcat server =====
+logs/
+temp/
+work/
+conf/Catalina/
+webapps/
+
+# ===== Database files =====
+*.sql
+*.db
+
+# ===== Uploads / Cache =====
+uploads/
+*.tmp
+*.bak
